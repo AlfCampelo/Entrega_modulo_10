@@ -1,0 +1,89 @@
+{
+    "name": "Juego_Disparos",
+    "short_name": "Juego disparos",
+    "icons":[
+        {
+            "src": "public/assets/bueno_muerto.png",
+            "sizes": "100x95",
+            "type": "image/png"},
+        {
+            "src": "public/assets/bueno.png",
+            "sizes": "100x100",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/clases.png",
+            "sizes": "496x591",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/game_over.png",
+            "sizes": "320x160",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/jefe_muerto.png",
+            "sizes": "100x95",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/jefe.png",
+            "sizes": "100x95",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/malo_muerto.png",
+            "sizes": "100x95",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/malo.png",
+            "sizes": "98x84",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/screenshot.png",
+            "sizes": "187x264",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/screenshot_128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/screenshot_144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/screenshot_256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/screenshot_512.png",
+            "sizes": "512x723",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/shot1.png",
+            "sizes": "30x30",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/shot2.png",
+            "sizes": "30x30",
+            "type": "image/png"
+        },
+        {
+            "src": "public/assets/you_win.png",
+            "sizes": "640_80",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#00EE94"
+}
