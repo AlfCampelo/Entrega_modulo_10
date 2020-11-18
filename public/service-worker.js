@@ -7,7 +7,6 @@ const CACHE_NAME = "static-cache-v9";
 const FILES_TO_CACHE = [
   "/main.js",
   "/index.html",
-  "/offline.html",
   "/Character.js",
   "/Entity.js",
   "/Game.js",
@@ -27,8 +26,10 @@ const FILES_TO_CACHE = [
   "/assets/malo.png",
   "/assets/screenshot_128.png",
   "/assets/screenshot_144.png",
+  "/assets/screenshot_192.png",
   "/assets/screenshot_256.png",
   "/assets/screenshot_512.png",
+  "/assets/screenshot_640.png",
   "/assets/screenshot.png",
   "/assets/shot1.png",
   "/assets/shot2.png",
